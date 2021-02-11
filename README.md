@@ -5,7 +5,7 @@ Practice space for using the Github Workflow.
 
 Participants:
 Ben Coleman
-Tanishq
+Tanishq (iyert@moravian.edu)
 Jack
 
 ## Setup
