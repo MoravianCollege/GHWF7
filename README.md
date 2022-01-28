@@ -4,7 +4,7 @@
 Practice space for using the Github Workflow.
 
 Participants:
-Ben Coleman
+Ben Coleman PhD
 Valeria Aguilar
 Kimberly Miller
 
