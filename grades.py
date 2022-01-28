@@ -1,3 +1,4 @@
+#Authors: Kimberly Miller and Valeria Aguilar
 
 def compute_hw_average(grades):
     if len(grades) == 0:
