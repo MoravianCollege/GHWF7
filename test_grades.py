@@ -1,6 +1,6 @@
 
 from grades import compute_hw_average
-# Authors: Valeria Aguilar 
+# Authors: Valeria Aguilar, Kimberly Miller  
 
 def test_zero_grades():
     grades = []
